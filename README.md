@@ -19,9 +19,8 @@ React Concepts:
 		Props:
 		
 		Container Component and Presentational Component  
-		
-	
-<TextEditor /> 
+			
+<!-- <TextEditor /> 
 	<Header />
 		<HeaderLeft />
 			<Button />
@@ -117,3 +116,4 @@ class Header extends Component {
     );
   }
 }
+ -->
